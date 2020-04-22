@@ -1,5 +1,5 @@
 public class Person {
-   // private instance variables
+   // private instance variablesss
    private String name, address;
    
    // Constructor

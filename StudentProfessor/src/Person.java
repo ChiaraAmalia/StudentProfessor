@@ -4,7 +4,7 @@ public class Person {
    
    // Constructor
    //ciao come va
-   
+   //todo bien
    //diamoci una mano
    public Person(String name, String address) {
       this.name = name;

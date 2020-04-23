@@ -6,6 +6,7 @@ public class Person {
    //ciao come va
    //todo bien
    //diamoci una mano
+   //tutti insieme
    public Person(String name, String address) {
       this.name = name;
       this.address = address;
